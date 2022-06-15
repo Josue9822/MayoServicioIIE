@@ -6,7 +6,7 @@ import com.idat.MayoServicioPrueba.model.Productos;
 
 public interface ProductoService {
 	
-void guardarProducto(Productos producto);
+	void guardarProducto(Productos producto);
 	
 	void actualizarProducto(Productos producto);
 	
