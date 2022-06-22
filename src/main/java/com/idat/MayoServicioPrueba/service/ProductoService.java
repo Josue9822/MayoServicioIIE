@@ -1,9 +1,9 @@
-package com.idat.service;
+package com.idat.MayoServicioPrueba.service;
 
 import java.util.List;
 
-import com.idat.DTO.ProductoDTOResponse;
-import com.idat.model.Productos;
+import com.idat.MayoServicioPrueba.DTO.ProductoDTOResponse;
+import com.idat.MayoServicioPrueba.model.Productos;
 
 public interface ProductoService {
 

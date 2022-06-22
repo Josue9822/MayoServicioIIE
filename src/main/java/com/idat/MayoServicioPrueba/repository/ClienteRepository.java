@@ -1,9 +1,9 @@
-package com.idat.repository;
+package com.idat.MayoServicioPrueba.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.idat.model.Cliente;
+import com.idat.MayoServicioPrueba.model.Cliente;
 @Repository
 public interface ClienteRepository extends JpaRepository<Cliente, Integer> {
 

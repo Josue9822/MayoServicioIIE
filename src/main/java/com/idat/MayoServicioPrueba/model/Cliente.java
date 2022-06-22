@@ -1,4 +1,4 @@
-package com.idat.model;
+package com.idat.MayoServicioPrueba.model;
 
 import java.util.ArrayList;
 import java.util.List;
