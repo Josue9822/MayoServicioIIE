@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.idat</groupId>
-	<artifactId>RepasoClases</artifactId>
+	<artifactId>MayoServicioIIE</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>RepasoClases</name>
+	<name>MayoServicioIIE</name>
 	<description>ProyectoWeb</description>
 	<properties>
 		<java.version>1.8</java.version>
