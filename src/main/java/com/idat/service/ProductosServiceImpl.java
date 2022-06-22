@@ -1,4 +1,4 @@
-package com.idat.MayoServicioPrueba.service;
+package com.idat.service;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -7,9 +7,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.idat.MayoServicioPrueba.DTO.ProductoDTOResponse;
-import com.idat.MayoServicioPrueba.model.Productos;
-import com.idat.MayoServicioPrueba.repository.ProductoRepository;
+import com.idat.DTO.ProductoDTOResponse;
+import com.idat.model.Productos;
+import com.idat.repository.ProductoRepository;
 
 @Service
 public class ProductosServiceImpl implements ProductoService {

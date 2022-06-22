@@ -1,4 +1,4 @@
-package com.idat.MayoServicioPrueba.DTO;
+package com.idat.DTO;
 
 public class ProductoDTOResponse {
 	

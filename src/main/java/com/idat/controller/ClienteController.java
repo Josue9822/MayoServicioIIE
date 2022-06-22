@@ -1,4 +1,4 @@
-package com.idat.MayoServicioPrueba.controller;
+package com.idat.controller;
 
 import java.util.List;
 
@@ -11,8 +11,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.idat.MayoServicioPrueba.model.Cliente;
-import com.idat.MayoServicioPrueba.service.ClienteService;
+
+import com.idat.model.Cliente;
+import com.idat.service.ClienteService;
 
 @Controller
 @RequestMapping("/clientes/v1")

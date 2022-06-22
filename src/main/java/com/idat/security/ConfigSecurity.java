@@ -1,4 +1,4 @@
-package com.idat.MayoServicioPrueba.security;
+package com.idat.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

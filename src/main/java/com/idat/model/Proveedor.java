@@ -1,4 +1,4 @@
-package com.idat.MayoServicioPrueba.model;
+package com.idat.model;
 
 import javax.persistence.Entity;
 import javax.persistence.ForeignKey;

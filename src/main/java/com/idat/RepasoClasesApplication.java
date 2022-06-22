@@ -1,13 +1,13 @@
-package com.idat.MayoServicioPrueba;
+package com.idat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MayoServicioPruebaApplication {
+public class RepasoClasesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MayoServicioPruebaApplication.class, args);
+		SpringApplication.run(RepasoClasesApplication.class, args);
 	}
 
 }
